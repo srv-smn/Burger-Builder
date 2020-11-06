@@ -4,7 +4,7 @@
   display:flex;
   flex-flow:column;
   align-items: center;
-  box-shadow: :0 2px 1pc #ccc;
+  box-shadow:0 2px 1pc #ccc;
   margin: auto;
   padding: 10 0;
 }
